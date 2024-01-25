@@ -65,7 +65,6 @@ img {
     margin: 10px 10px;
 }
 
-<<<<<<< HEAD
 .menu {
     display: flex;
 }
@@ -136,11 +135,10 @@ img {
     height: 20px;
     margin-top: 10px;
     background-position: 96%;
+    border: 1px solid #d6d6d6;
 }
 .col-100{
     width: 100%;
     float: left;
     position: relative;
 }
-=======
->>>>>>> d12404b12417873493c640a8c26c2de7ab5de196
